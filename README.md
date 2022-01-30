@@ -1,2 +1,2 @@
-# Blog_App_Iteration_1
-Blog App Iteration 1
+# Blog-App
+Course Assignment for Coursera's Web App Development Basics
